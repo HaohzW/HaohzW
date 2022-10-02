@@ -2,11 +2,13 @@
 
 - :mortar_board: I'm currently an undergraduate student majoring in computer science from Beijing Institute of Technology.
 
-- 🌱 I'm interested in :speech_balloon: **Natural language Processing**, especially in the field of :mag: **Knowledge Graph**.
+- 🌱 I'm interested in :
+-- speech_balloon: **Natural language Processing**
+-- :mag: **Knowledge Graph**
 
 - :muscle: Skilled programming language:
 
--- ![](https://img.shields.io/badge/Code-C-blue)    ![](https://img.shields.io/badge/Code-C%2B%2B-blue)    ![](https://img.shields.io/badge/Code-Python-blue)    ![](https://img.shields.io/badge/Code-Matlab-blue)    ![](https://img.shields.io/badge/Code-Java-blue)
+![](https://img.shields.io/badge/Code-C-blue)    ![](https://img.shields.io/badge/Code-C%2B%2B-blue)    ![](https://img.shields.io/badge/Code-Python-blue)    ![](https://img.shields.io/badge/Code-Matlab-blue)    ![](https://img.shields.io/badge/Code-Java-blue)
 
 - :chart_with_upwards_trend: Github status
 
