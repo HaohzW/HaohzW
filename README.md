@@ -3,10 +3,8 @@
 - :mortar_board: I'm currently an undergraduate student majoring in computer science from Beijing Institute of Technology.
 
 - 🌱 I'm interested in :
-
--- :speech_balloon: **Natural language Processing**
-
--- :mag: **Knowledge Graph**
+  - :speech_balloon: **Natural language Processing**
+  - :mag: **Knowledge Graph**
 
 - :muscle: Skilled programming language:
 
