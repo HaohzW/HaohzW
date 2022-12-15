@@ -4,7 +4,7 @@
 
 - 🌱 I'm interested in :
   - :speech_balloon: **Natural language Processing**
-  - :mag: **Knowledge Graph**
+  - :mag: **Knowledge Graph** 👉 **currently working on coreference resolution**
 
 - :muscle: Skilled programming language:
 
